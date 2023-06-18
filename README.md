@@ -27,7 +27,7 @@ I am a Full Stack Developer from Iran.
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Milad-red?style=flat&logo=gmail&logoColor=white)](mailto:milad.b7603@gmail.com)
+- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Milad-red?style=flat&logo=gmail&logoColor=white)](mailto:milad.b7603@gmail.com) [![Gmail Badge](https://www.linkedin.com/in/milad-bahaloo-761a6a1ab/)
 
 ---
 
